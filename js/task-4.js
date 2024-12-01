@@ -11,7 +11,7 @@ function getShippingCost(country) {
       message = `Shipping to ${country} will cost ${price} credits`;
       break;
     case 'Australia':
-      price = 179;
+      price = 170;
       message = `Shipping to ${country} will cost ${price} credits`;
       break;
     case 'Jamaica':
